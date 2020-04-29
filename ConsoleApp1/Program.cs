@@ -17,7 +17,7 @@ namespace ConsoleApp1
             int n = int.Parse(S1);
             Example(n);
             Console.ReadLine();
-             
+            Console.ReadLine();
         }
     }
 
